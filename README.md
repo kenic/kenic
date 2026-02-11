@@ -1,4 +1,22 @@
-## Hi there 👋
+<img align="left" width="35%" height="auto" src="https://kenic.github.io/rem-rezero.gif">
+
+<h5 align="center">
+👋 hey, I’m kenic
+
+I build docs, tools, and systems for makers and learners.
+
+😇 mkdocs + github pages user<br />
+🐍 python scripts that actually work<br />
+🎓 edu research and algorithms<br />
+🚗 cars, plane, art, and visual stories<br />
+
+📍 Tottori, JAPAN<br />
+✉️ @kenic (<a href="https://twitter.com/kenic">twitter</a> / <a href="https://bsky.app/profile/kenic.bsky.social">bluesky</a>)
+
+<a href="https://ko-fi.com/kenipi" target="_blank">
+    <img width="200px" align="center" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbed8a433a3f45a772abaf5_SupportMe_blue.png"/>  
+  </a>
+</h5>
 
 <!--
 **kenic/kenic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
