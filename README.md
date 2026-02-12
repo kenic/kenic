@@ -1,4 +1,4 @@
-<img align="left" width="25%" height="auto" src="https://kenic.github.io/rem-rezero.gif">
+<img align="left" width="30%" height="auto" src="https://kenic.github.io/rem-rezero.gif">
 
 <h5 align="center">
 👋 hey, I’m kenic
