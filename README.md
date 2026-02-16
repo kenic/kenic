@@ -13,9 +13,11 @@ I build docs, tools, and systems for makers and learners.
 📍 Tottori, JAPAN<br />
 ✉️ @kenic (<a href="https://twitter.com/kenic">twitter</a> / <a href="https://bsky.app/profile/kenic.bsky.social">bluesky</a>)
 
+<!--
 <a href="https://ko-fi.com/kenipi" target="_blank">
     <img width="150px" align="center" src="https://storage.ko-fi.com/cdn/kofi5.png"/>  
   </a>
+-->
 </h5>
 
 
